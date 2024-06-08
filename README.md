@@ -19,7 +19,7 @@ O quiz abrange uma ampla base de fatos históricos, curiosidades e informações
 
 
 ### TECNOLOGIAS UTILIZADAS
- <img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/portugol.png?raw=true" alt="Logo Portugol" width="110"/><img src="https://github.com/Kinhazin/PROJETO-INTEGRADOR_Quiz/blob/main/Java.png?raw=true" alt="Logo Java" width="90"/>
+ <img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/portugol.png?raw=true" alt="Logo Portugol" width="110"/><img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/Java.png?raw=true" alt="Logo Java" width="90"/>
 
 
 
