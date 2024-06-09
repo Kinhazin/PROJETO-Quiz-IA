@@ -31,7 +31,7 @@ public class Inventario {
                 System.out.println("\nDica: Todos nós somos estudantes, lembre-se disso\n");
                 break;
             case 8:
-                System.out.println("\nDica: A conferência possui o nome de uma universidade\n");
+                System.out.println("\nDica: A inteligência artificial é uma ferramenta auxiliar, não uma substituta\n");
                 break;
             default:
                 System.out.println("\nDica inválida\n");
