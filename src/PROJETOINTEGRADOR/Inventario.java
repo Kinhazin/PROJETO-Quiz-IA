@@ -80,7 +80,7 @@ public class Inventario {
         parametros[1][6] = 0;
         do {
             volta = true;
-            System.out.println("\nVocê selecionou o invetário\n");
+            System.out.println("\n* INVENTÁRIO *\n");
             System.out.println("Você possui:");
             System.out.printf("Dicas: %d\n", parametros[1][3]);
             System.out.printf("Eliminar Questão: %d\n", parametros[1][4]);
