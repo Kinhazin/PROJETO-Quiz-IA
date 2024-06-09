@@ -20,7 +20,7 @@ O quiz abrange uma ampla base de fatos históricos, curiosidades e informações
 ### Documentação
 Veja a documentação completa do projeto [aqui](https://drive.google.com/file/d/13IGI3NtQd0SpVIavBpHznalhjyRJ4p0O/view?usp=sharing)📝
 
-Veja um vídeo de demonstração [aqui](https://photos.app.goo.gl/5mX6QhDNDXDvU54h9)📸
+Veja um vídeo de demonstração [aqui]([https://photos.app.goo.gl/5mX6QhDNDXDvU54h9](https://photos.app.goo.gl/dUQhHdjje4s33EX16))📸
 
 ### TECNOLOGIAS UTILIZADAS
  <img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/Imagens/portugol.png?raw=true" alt="Logo Portugol" width="110"/><img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/Imagens/Java.png?raw=true" alt="Logo Java" width="90"/>
