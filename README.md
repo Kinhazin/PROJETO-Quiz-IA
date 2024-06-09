@@ -17,5 +17,8 @@ O projeto conta com a criação de fluxogramas e pseudocódigos que auxiliam par
 
 O quiz abrange uma ampla base de fatos históricos, curiosidades e informações voltadas para o mundo tech, porém com um foco maior na área de “Inteligência Artificial”.
 
+### Documentação
+Veja a documentação completa do projeto [aqui](https://drive.google.com/file/d/13IGI3NtQd0SpVIavBpHznalhjyRJ4p0O/view?usp=sharing).
+
 ### TECNOLOGIAS UTILIZADAS
  <img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/Imagens/portugol.png?raw=true" alt="Logo Portugol" width="110"/><img src="https://github.com/Kinhazin/PROJETO-Quiz-IA/blob/master/Imagens/Java.png?raw=true" alt="Logo Java" width="90"/>
