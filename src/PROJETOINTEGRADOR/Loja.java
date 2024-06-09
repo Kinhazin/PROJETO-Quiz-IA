@@ -70,6 +70,7 @@ public class Loja {
             System.out.printf("%s custa: %d\n", nome, preço);
             System.out.println("Deseja comprar ?");
             System.out.println("[1] Sim | [2] Não");
+            System.out.print("Escolha: ");
             confirmar = input.nextInt();
         } while (confirmar != 1 && confirmar != 2);
         return confirmar;
