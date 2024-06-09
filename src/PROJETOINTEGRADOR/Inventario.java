@@ -86,7 +86,7 @@ public class Inventario {
             System.out.printf("Eliminar Questão: %d\n", parametros[1][4]);
             System.out.printf("NextQuestion: %d\n", parametros[1][5]);
             System.out.println("\n[1] Dica  |  [2] Eliminar Alternativa  |  [3] NextQuestion  |  [4] Sair");
-            System.out.println("Escolha: ");
+            System.out.print("Escolha: ");
             escolha = input.nextInt();
 
             switch (escolha) {
