@@ -13,7 +13,6 @@ O projeto conta com a criação de fluxogramas e pseudocódigos que auxiliam par
 - Estruturas de repetição
 - Funções
 - Arrays
-- Teste de validação
 
 O quiz abrange uma ampla base de fatos históricos, curiosidades e informações voltadas para o mundo tech, porém com um foco maior na área de “Inteligência Artificial”.
 
