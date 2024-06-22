@@ -16,6 +16,9 @@ O projeto conta com a criação de fluxogramas e pseudocódigos que auxiliam par
 
 O quiz abrange uma ampla base de fatos históricos, curiosidades e informações voltadas para o mundo tech, porém com um foco maior na área de “Inteligência Artificial”.
 
+## OBEJTIVO
+O principal objetivo do Quiz é desmistificar a ideia de que a inteligência artificial é uma novidade absoluta e mostrar como ela está mais presente em nosso cotidiano do que imaginamos. Além disso, o Quiz visa apresentar informação e curiosidades tecnológicas de maneira divertida e interativa, através da gamificação, assim tornando uma aprendizagem leve e divertida.
+
 ### Documentação
 Veja a documentação completa do projeto [aqui](https://drive.google.com/file/d/13IGI3NtQd0SpVIavBpHznalhjyRJ4p0O/view?usp=sharing)📝
 
