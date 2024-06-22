@@ -3,7 +3,7 @@
 **📝 PROJETO AVALIATIVO - 1° SEMESTRE: STADSCAS1NB 📝**
 
 **🤖 Quiz: Inteligência Artificial - O novo normal 🤖**
-
+<br><br>
 ## SOBRE
 
 O projeto *"Quiz: Inteligência Artificial - o novo normal"* desenvolvido e documentado pelos alunos da STADSCAS1NB como avaliação semestral da matéria “Projeto Integrador”, possui a finalidade de exercitar e aprimorar a lógica de programação neste primeiro período de curso.
@@ -15,10 +15,10 @@ O projeto conta com a criação de fluxogramas e pseudocódigos que auxiliam par
 - Arrays
 
 O quiz abrange uma ampla base de fatos históricos, curiosidades e informações voltadas para o mundo tech, porém com um foco maior na área de “Inteligência Artificial”.
-
+<br><br>
 ## OBEJTIVO
 O principal objetivo do Quiz é desmistificar a ideia de que a inteligência artificial é uma novidade absoluta e mostrar como ela está mais presente em nosso cotidiano do que imaginamos. Além disso, o Quiz visa apresentar informação e curiosidades tecnológicas de maneira divertida e interativa, através da gamificação, assim tornando uma aprendizagem leve.
-
+<br><br>
 ### Documentação
 Veja a documentação completa do projeto [aqui](https://drive.google.com/file/d/13IGI3NtQd0SpVIavBpHznalhjyRJ4p0O/view?usp=sharing)📝
 
